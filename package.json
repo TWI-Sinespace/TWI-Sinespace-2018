@@ -1,0 +1,23 @@
+{
+	"author": {
+		"email": "support.sinespace@twinnovations.net",
+		"name": "Tyler Wiebe",
+		"url": "https://twinnovations.net/about"
+	},
+	"changelogUrl": "https://twinnovations.net/sinespace/changelog",
+	"dependencies": {
+		
+	},
+	"description": "",
+	"documentationUrl": "https://twinnovations/sinespace/documentation",
+	"displayName": "TWI Sinespace",
+	"hideInEditor": true,
+	"keywords": [
+		"sinespace",
+		"twi"
+	],
+	"name": "twi.sinespace",
+	"unity": "2018.4",
+	"unityRelease": "24f1",
+	"version": "3.0.0"
+}
